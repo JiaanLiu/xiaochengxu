@@ -1,0 +1,12 @@
+{
+    "usingComponents": {
+        "searchinput": "../../components/searchinput/searchinput",
+        "tabs": "../../components/tabs/tabs"
+
+    },
+    "navigationBarTitleText": "购物哟商品",
+    "enablePullDownRefresh": true,
+    "backgroundTextStyle": "dark"
+
+
+}

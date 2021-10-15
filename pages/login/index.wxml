@@ -1,0 +1,4 @@
+<!-- <button type="primary" plain="{{true}}" open-type="getUserInfo" bindgetuserinfo="handleUser">
+  登陆
+</button> -->
+<button type="primary" plain="{{true}}" bindtap="handleUser">登陆</button>
